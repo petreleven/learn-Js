@@ -165,8 +165,8 @@ JavaScript is a powerful language, but to master it, you need to understand its 
 
   
 **Interactive Quiz App (js driven)**
-Create multiple-choice questions
-Track and display score
-Add a timer
-Store high scores in local storage
+- Create multiple-choice questions
+- Track and display score
+- Add a timer
+- Store high scores in local storage
 
