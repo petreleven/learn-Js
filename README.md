@@ -163,5 +163,10 @@ JavaScript is a powerful language, but to master it, you need to understand its 
 - **Color Changer**: Click a button to change the background color
 - **Number Guessing Game**: The computer picks a random number, and the user has to guess it
 
-Happy Coding! 🚀
+  
+**Interactive Quiz App (js driven)**
+Create multiple-choice questions
+Track and display score
+Add a timer
+Store high scores in local storage
 
