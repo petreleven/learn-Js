@@ -288,11 +288,7 @@ https://disease.sh/v3/covid-19/countries/
 
 ---
 
-Would you like this version exported as:
 
-* A **Google Slides deck**
-* A **PDF**
-* Or a **Printable poster layout**?
 
 
 
