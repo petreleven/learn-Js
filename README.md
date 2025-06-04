@@ -187,7 +187,7 @@ Absolutely! Here's a visually exciting, student-friendly **presentation layout**
 
 Runs in the browser, fast for websites!
 
-![JS Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50">
 
 ### 🟦 Python (🐍 backend power)
 
