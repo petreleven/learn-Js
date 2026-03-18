@@ -1,19 +1,60 @@
 
 
-### 1️⃣ The Age Box
+### 4️⃣ The Mystery Snack Quiz 🍎
 
-You have a box called **age**.
+You have a box called **snack**. 
+* Put the word **"Apple"** inside the box.
 
-* Put your age inside the box.
+Now, look at the robot's instructions below and tell me: **What will the robot say?**
+
+> **IF** snack is "Pizza":
+> * Robot says: "Party time!"
+>
+> **ELSE IF** snack is "Apple":
+> * Robot says: "Stay healthy!"
+>
+> **ELSE**:
+> * Robot says: "I don't know that food."
+
+**Your Answer:** ____________________
+
 ---
 
-### 2️⃣ The Favorite Food Box
+### 5️⃣ The Superpower Level Quiz ⚡
 
-Create a box called **favorite_food** and put your favorite snack inside.
+You have a box called **power_level**. 
+* Put the number **8** inside the box.
 
+Now, follow the path! Which one happens?
+
+> **IF** power_level is 10:
+> * You can fly! 🦅
+>
+> **ELSE IF** power_level is 8:
+> * You have super speed! 🏃‍♂️
+>
+> **ELSE**:
+> * You have super strength! 💪
+
+**Your Superpower is:** ____________________
 
 ---
 
-### 3️⃣ The Points Box (Game Example)
+### 6️⃣ The Weather Machine ☀️🌧️❄️
 
-You have a box called **points**. Put number 5 inside the points 
+This time, **you** pick what goes in the box!
+
+* Create a box called **weather**.
+* Put either **"Rainy"**, **"Sunny"**, or **"Snowy"** inside.
+
+Now, follow your own instructions:
+
+> **IF** weather is "Sunny":
+> * Wear your sunglasses! 😎
+>
+> **ELSE IF** weather is "Rainy":
+> * Grab your umbrella! ☂️
+>
+> **ELSE IF** weather is "Snowy":
+> * Wear your warm mittens! 🧤
+
