@@ -30,12 +30,4 @@
 > * **ELSE**:
 >    * Say: The number.
 
----
 
-### 💡 Quick Tip for the Teacher
-If he asks how the "Repeat Machine" knows when to stop, you can tell him it's like a **race track**:
-1. **The Starting Line:** Where the number starts (like 1).
-2. **The Finish Line:** The number it stops at (like 10).
-3. **The Lap Counter:** Adding 1 every time it goes around.
-
-**Would you like me to show you how to "translate" these into a simple Scratch-style block or real JavaScript code for him to type?**
