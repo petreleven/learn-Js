@@ -47,4 +47,3 @@ Pick your favorite number between 1 and 10. Use a loop to count. Inside, use an 
 
 * `i++`: Add 1 to the count every time.
 
-**Would you like me to create a "debug" challenge where I give him code with one tiny mistake for him to find and fix?**
