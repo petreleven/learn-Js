@@ -1,49 +1,41 @@
-### 🚀 Mission 1: The Annoying Little Brother Bot
-**Goal:** Make the computer say "Are we there yet?" exactly **10 times** so you don't have to!
 
-**The Challenge:**
-Create a Repeat Block that counts from **1 to 10**. Inside the block, tell the robot to say the message.
 
-**Bonus Boss Level:** Can you make it count to **100**? (Don't worry, the robot won't get tired, but your screen might get full!)
+### 7️⃣ The Annoying Little Brother Bot 🚗
+
+**The Mission:** Make the computer ask "Are we there yet?" exactly **10 times** so you don't have to!
+
+> **YOUR CODE:**
+> **REPEAT** ________ times:
+> * Say: "Are we there yet? 👦"
+> * Say: The current number of the count.
 
 ---
 
-### 🍎 Mission 2: The Apple Picker 
-**Goal:** You are in an orchard with **7 trees**. You need to pick an apple from every tree and put it in your basket.
+### 8️⃣ The Apple Picker 🍎
 
-**The Challenge:**
-Use a variable called **basket**. Start it at **0**. Use a loop to visit **7 trees**. Every time the loop runs, add **+1** to your basket!
-
-> **YOUR CODE:**
-> Create a box called **basket** and put **0** inside.
->
-> **FOR** every tree from **1 to 7**:
-> * Add **1** to the **basket**.
-> * Say: "I have " + **basket** + " apples!"
->
-> **AFTER the loop:**
-> * Say: "Basket is full! Time for pie! 🥧"
+**The Mission:** You are in a garden with **7 trees**. You need to pick **1 apple** from every tree and put it in your basket.  Make the say picking an apple 7 times.
 
 ---
 
-### ⚡ Mission 3: The Secret Agent Counter
-**Goal:** Your robot is a secret agent. It needs to count to **10**, but it has a **Favorite Number**. If it hits that number, it has to shout "TOP SECRET!" instead of the number.
+### 9️⃣ The Secret Agent Counter 🕵️‍♂️
 
-**The Challenge:**
-Pick your favorite number between 1 and 10. Use a loop to count. Inside, use an **IF** statement to check if the count matches your favorite number.
+**The Mission:** Count to **10**, but if the number is **7**, shout "TOP SECRET" instead of the number!
 
 > **YOUR CODE:**
-> Pick a **Favorite Number**: ________
+> **REPEAT** from number **1 to 10**:
 >
-> **FOR** every number from **1 to 10**:
->
-> * **IF** the number is **EQUAL** to your **Favorite Number**:
->    * Say: "TOP SECRET! 🕵️‍♂️"
+> * **IF** the number is **7**:
+>    * Say: "TOP SECRET! 🤐"
 >
 > * **ELSE**:
 >    * Say: The number.
 
 ---
 
-* `i++`: Add 1 to the count every time.
+### 💡 Quick Tip for the Teacher
+If he asks how the "Repeat Machine" knows when to stop, you can tell him it's like a **race track**:
+1. **The Starting Line:** Where the number starts (like 1).
+2. **The Finish Line:** The number it stops at (like 10).
+3. **The Lap Counter:** Adding 1 every time it goes around.
 
+**Would you like me to show you how to "translate" these into a simple Scratch-style block or real JavaScript code for him to type?**
