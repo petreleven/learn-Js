@@ -25,3 +25,35 @@
 
 ---
 
+### 🛡️ Mission 1: The Supply Scanner
+The alarm is great, but we need to know *what* we're defending! Let's make a function that can identify any item we find.
+
+* **The Task:** Create a function called `identifySupply`.
+* **The Argument:** Give it one argument called `item`.
+* **The Logic:** Inside the function, make it print: `"Scanning... Found one: "` followed by the `item`.
+* **Check Your Work:** Call the function twice. Once with `"Medkit"` and once with `"Crossbow"`.
+
+---
+
+### 🥗 Mission 2: The Ration Calculator
+We have to make sure the survivors don't go hungry. We need a function that does some math for us!
+
+* **The Task:** Create a function called `calculateRations`.
+* **The Arguments:** This one needs **two** arguments: `survivors` and `days`.
+* **The Logic:** Inside the function, create a variable called `totalCans`. Set it equal to $survivors \times days \times 3$ (because everyone eats 3 meals a day!).
+* **The Output:** Print: `"You need "` + `totalCans` + `" cans of beans to survive!"`.
+* **Check Your Work:** Call the function for `5` survivors and `7` days.
+
+---
+
+### 🚀 Mission 3: The Robot Guard-Dog
+You’ve built a robot dog to distract the zombies. You need to be able to tell it which direction to run and how fast to go.
+
+* **The Task:** Create a function called `distractZombies`.
+* **The Arguments:** Use two arguments: `direction` and `speed`.
+* **The Logic:** Print a message that says: `"Robot Dog is sprinting "` + `direction` + `" at "` + `speed` + `" miles per hour!"`.
+* **Check Your Work:** Call the function and tell the dog to go `"North"` at `"25"` mph.
+
+---
+
+
