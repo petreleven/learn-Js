@@ -35,15 +35,16 @@ The alarm is great, but we need to know *what* we're defending! Let's make a fun
 
 ---
 
-### 🥗 Mission 2: The Ration Calculator
-We have to make sure the survivors don't go hungry. We need a function that does some math for us!
+### 🥗 Mission 2: The Ration Report
 
-* **The Task:** Create a function called `calculateRations`.
-* **The Arguments:** This one needs **two** arguments: `survivors` and `days`.
-* **The Logic:** Inside the function, create a variable called `totalCans`. Set it equal to $survivors \times days \times 3$ (because everyone eats 3 meals a day!).
-* **The Output:** Print: `"You need "` + `totalCans` + `" cans of beans to survive!"`.
-* **Check Your Work:** Call the function for `5` survivors and `7` days.
+We need to keep track of our supplies! Instead of doing heavy math, let's make a function that just announces how long the survivors will be eating.
 
+* **  The Task: Create a function called calculateRations.
+* **   The Arguments: Give it two arguments: survivors and days.
+
+* **The Logic: Inside the function, make it print: "Feeding " + survivors + " survivors for " + days + " days!".
+
+    Check Your Work: Call the function with the numbers 5 and 7.
 ---
 
 ### 🚀 Mission 3: The Robot Guard-Dog
