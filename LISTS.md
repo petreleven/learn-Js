@@ -1,6 +1,4 @@
-Got it! No code blocks, just the missions. Here are the updated Python-based survival challenges for you to solve.
 
----
 
 ## 🧟 The Zombie Survival Squad 🧟
 **The Mission:** You start with a list called `squad` that contains `"Me"` and `"Bestie"`. A group of three more survivors just ran up to your gate! In Python, we don't use `.push()`; we use **`.append()`**. Your task is to use the `.append()` method three separate times to add `"Scientist"`, `"Robot"`, and `"Pizza Guy"` to the end of your list.
