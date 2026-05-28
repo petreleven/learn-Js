@@ -12,7 +12,7 @@
 
 ## 🕹️ The Player One Power-Up 🍄
 
-**The Mission:** You have an array called `players` with four names in it. Just like Python, JavaScript arrays are **zero-indexed**, meaning the first item is at position 0. Use the **`[0]`** bracket notation to grab the name of the first player and store it in a variable called `winner`.
+**The Mission:** You have a list called `players` with four names in it `"Mario"` `"Luigi" "James" "Lilian"`.  JavaScript lists are **zero-indexed**, meaning the first item is at position 0. Use the **`[0]`** bracket notation to grab the name of the first player and store it in a variable called `winner`.
 
 **Check your work:** Print a message to the console that says `"The Golden Mushroom goes to: "` and then include your `winner` variable.
 
