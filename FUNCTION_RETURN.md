@@ -1,44 +1,38 @@
-
-### 📦 Mission 4: The Ammo Calculator
-
-Our scouts are coming back with different amounts of ammo. We need a function that adds them up and *gives* us the total, rather than just showing it to us.
-
-* **The Mission:** Create a function called `calculateAmmo`.
-* **The Arguments:** Two arguments: `bulletsInMag` and `bulletsInBox`.
-* **The Logic:** Add them together and `return` the total.
-* **Check Your Work:** Save the result in a variable called `totalAmmo` and then `console.log("We have " + totalAmmo + " bullets ready!")`.
+Here are three updated missions designed for a 10–14 age group, keeping the themes fun, adventurous, and easy to understand.
 
 ---
 
-### 🛡️ Mission 5: The Shield Strength
+### 📦 Mission 1: The Galactic Treasure Hunter
 
-The base is under attack! We need to know how much damage our shield can absorb before it breaks.
+You found a treasure chest on a distant planet! But the gold is split between two separate bags. We need a function to add them together so you know your total wealth.
 
-* **The Mission:** Create a function called `calculateShield`.
-* **The Argument:** One argument called `energyLevel`.
-* **The Logic:** If the `energyLevel` is above 50, `return` "Shield is Full". If it is 50 or less, `return` "Shield is Weak".
-* **Check Your Work:** Create a variable called `status` and set it by calling the function with `30`. `console.log` the `status` to see if it works!
-
----
-
-### ⚡ Mission 6: The Turbo Boost (Using Async)
-
-The zombies are too fast! We need a function that waits for a "Turbo" charge before returning our speed.
-
-* **The Mission:** Create an `async` function called `getTurboSpeed`.
-* **The Argument:** One argument called `baseSpeed`.
-* **The Logic:** Use `await sleep(1000)` (using the `sleep` helper we talked about) to simulate the charge time, then `return` the `baseSpeed * 2`.
-* **Check Your Work:** Use `let newSpeed = await getTurboSpeed(20);` and then `console.log` the `newSpeed`.
+* **The Mission:** Create a function called `calculateGold`.
+* **The Arguments:** Two arguments: `bagOne` and `bagTwo`.
+* **The Logic:** Add `bagOne` and `bagTwo` together and **return** the total.
+* **Check Your Work:** Save the result in a variable called `totalGold` and then `console.log("Total treasure collected: " + totalGold + " coins!");`
 
 ---
 
-### 🤖 Mission 7: The Final Code Breaker
+### 📦 Mission 2: The Robot Speed Boost
 
-We found a secure door! We need a code to open it, but the code needs to be formatted exactly right.
+Your racing robot needs a speed boost for the final lap! We need a function that takes its base speed and adds the turbo boost power to it.
 
-* **The Mission:** Create a function called `generateAccessCode`.
-* **The Arguments:** Two arguments: `teamName` and `secretNumber`.
-* **The Logic:** `return` a string that looks like this: `teamName + "-" + secretNumber + "-ACCESS"`.
-* **Check Your Work:** Create a variable `myCode` by calling the function with your name and a favorite number. Print it to see your official pass!
+* **The Mission:** Create a function called `applyTurbo`.
+* **The Arguments:** Two arguments: `baseSpeed` and `turboBoost`.
+* **The Logic:** Add `baseSpeed` and `turboBoost` together and **return** the new speed.
+* **Check Your Work:** Save the result in a variable called `finalSpeed` and then `console.log("Robot speed increased to: " + finalSpeed + " km/h!");`
 
 ---
+
+### 📦 Mission 3: The Magical Potion Mixer
+
+To finish your level, you need to mix ingredients for a health potion. The function should calculate the total amount of "Magic Energy" based on two jars of ingredients.
+
+* **The Mission:** Create a function called `mixPotion`.
+* **The Arguments:** Two arguments: `jarOneEnergy` and `jarTwoEnergy`.
+* **The Logic:** Add `jarOneEnergy` and `jarTwoEnergy` together and **return** the final energy level.
+* **Check Your Work:** Save the result in a variable called `totalEnergy` and then `console.log("The potion is ready with " + totalEnergy + " units of magic!");`
+
+---
+
+Would you like me to create a challenge where the function has to do something a little bit trickier, like comparing two numbers to see which one is bigger?
