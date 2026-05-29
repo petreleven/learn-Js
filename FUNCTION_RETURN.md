@@ -1,6 +1,3 @@
-Here are three updated missions designed for a 10–14 age group, keeping the themes fun, adventurous, and easy to understand.
-
----
 
 ### 📦 Mission 1: The Galactic Treasure Hunter
 
@@ -35,4 +32,3 @@ To finish your level, you need to mix ingredients for a health potion. The funct
 
 ---
 
-Would you like me to create a challenge where the function has to do something a little bit trickier, like comparing two numbers to see which one is bigger?
