@@ -1,5 +1,3 @@
----
-
 ## 📢 Mission: The Morning Roll Call
 
 **The Mission:** You need to make sure everyone is awake and accounted for. Use a `for` loop to go through your `squad` list and print a message for each person.
