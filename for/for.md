@@ -7,7 +7,7 @@
 * Write a `for` loop where the variable `countdown` starts at **10**.
 * The loop should run as long as `countdown` is **greater than 0**.
 * Use `countdown -= 1` to count backward.
-* Inside the loop, print: `"T-minus [countdown]"`
+* Inside the loop, print: `"T-minus "+countdown`
 
 **The Result:**
 
@@ -31,7 +31,7 @@ T-minus 1
 * Write a `for` loop where the variable `km` starts at **5**.
 * The loop should run as long as `km` is **less than or equal to 40**.
 * Use `km += 5` to count by fives.
-* Inside the loop, print: `"Checkpoint reached: [km]km"`
+* Inside the loop, print: `"Checkpoint reached:" +km"`
 
 **The Result:**
 
@@ -54,7 +54,7 @@ Checkpoint reached: 40km
 * Write a `for` loop where the variable `num` starts at **0**.
 * The loop should run as long as `num` is **less than or equal to 20**.
 * Use `num += 2` to skip the odd numbers.
-* Inside the loop, print: `"Sensor calibrated: [num]"`
+* Inside the loop, print: `"Sensor calibrated: "+ num`
 
 **The Result:**
 
