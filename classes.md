@@ -31,4 +31,3 @@ Every hero needs to get stronger! You need a class to track their training sessi
 
 ---
 
-Would you like me to provide the "answer keys" for these missions so you can easily check the students' work?
