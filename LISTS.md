@@ -6,7 +6,7 @@
 
 ### 🗺️ Step-by-Step Guide:
 
-* **Step 1:** Create your starting list with `"Me"` and `"Bestie"`.
+* **Step 1:** Create a list called  `"friends"` list with `"Me"` and `"Bestie"`.
 * **Step 2:** Apply the `.push()` method once to add the `"Scientist"`.
 * **Step 3:** Apply the `.push()` method again to add the `"Robot"`.
 * **Step 4:** Apply the `.push()` method a final time to add the `"Pizza Guy"`.
