@@ -6,7 +6,7 @@
 
 ### 🗺️ Step-by-Step Guide:
 
-* **Step 1:** Create a list called  `"friends"` list with `"Me"` and `"Bestie"`.
+* **Step 1:** Create a list called  `friends` list with `"Me"` and `"Bestie"`.
 * **Step 2:** Apply the `.push()` method once to add the `"Scientist"`.
 * **Step 3:** Apply the `.push()` method again to add the `"Robot"`.
 * **Step 4:** Apply the `.push()` method a final time to add the `"Pizza Guy"`.
@@ -16,7 +16,7 @@
 
 ## 🕹️ The Player One Power-Up 🍄
 
-**The Mission:** You have a list of four players: `"Mario"`, `"Luigi"`, `"James"`, `"Lilian"`. Since lists are zero-indexed, use the `[0]` bracket notation to capture the first player and save them as the `winner`.
+**The Mission:** You have a list of four `players`: `"Mario"`, `"Luigi"`, `"James"`, `"Lilian"`. Since lists are zero-indexed, use the `[0]` bracket notation to capture the first player and save them as the `winner`.
 
 **Check your work:** Print a message that says `"The Golden Mushroom goes to: "` followed by the name of the `winner`.
 
@@ -31,7 +31,7 @@
 
 ## 🕵️ The Double Agent Swap 🕶️
 
-**The Mission:** You have a list of heroes, but there is a `"Spy"` hiding at **index 2**. Replace the `"Spy"` with a `"Super Dog"` by directly reassigning that index.
+**The Mission:** You have a list of `heroes`, but there is a `"Spy"` hiding at **index 2**. Replace the `"Spy"` with a `"Super Dog"` by directly reassigning that index.
 
 **Check your work:** Display the list to verify the spy is gone and the dog has taken their place.
 
