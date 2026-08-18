@@ -1,4 +1,4 @@
-```markdown
+
 # Filter Buttons — Implementation Notes
 
 Now that all the buttons work, it's time to code the filter buttons.
@@ -30,6 +30,4 @@ This follows the same pattern as the Active Tasks button, but in reverse — it 
 - b) Add a click event listener which should trigger a `showDoneTasks` function
 
 > Note: This function is also very similar to `showTasks`, except for each task we should check if `completed == true` before displaying it.
-```
 
-Want me to also write the actual JS for `showActiveTasks` and `showDoneTasks` based on your existing `showTasks` function?
