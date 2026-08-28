@@ -38,7 +38,7 @@
 
 ### 🚀 Quest 3: Asteroid Field Escape
 
-**The Mission:** Your spaceship is flying through 50 sectors of an asteroid field. Sectors 7, 14, and 21 are "safe zones" — `continue` right through them, no danger. Every other sector takes 2 damage to your shields, which start at 100. If your shields ever drop to 0 or below, `break` immediately to trigger emergency warp.
+**The Mission:** Your spaceship is flying through 50 sectors of an asteroid field. Sectors 7, 14, and 21 are "safe zones" — `continue` right through them, no danger. Every other sector takes 2 damage to your shields, which start at 100. If your shields ever drop to 0 or below, `break` immediately to trigger emergency escape.
 
 **Check your work:** Print each sector you pass through with your shield level (except safe zones, which print "Safe Zone!"). Print whether you made it through all 50 sectors or had to emergency warp.
 
