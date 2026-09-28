@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.0/css/all.min.css"
         integrity="sha512-ApSLB1Pd3/bZN8fWB/RG9YhN/7bd9Hkf3AGaE2mPfebjrxagjuBtx2GcgdqIlJkUzwylBo61r9Xa9NmgBI0swA=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="icon" type="image/png" href="{{ url_for('static', filename='Logo.png') }}">
     <!-- Core Search Engine Optimization Tags -->
     <meta name="description"
         content="A compelling 150-160 character summary of the page to encourage click-throughs from search results.">
@@ -22,17 +23,17 @@
 
     <!-- Open Graph / Facebook / LinkedIn -->
     <meta property="og:type" content="article">
-    <meta property="og:title" content="Catchy Title for Social Media Share">
-    <meta property="og:description" content="Brief summary tailored for social media feeds.">
+    <meta property="og:title" content="Al-Amin Glass & Aluminium">
+    <meta property="og:description" content="A leading provider of high-quality glass and aluminium solutions, specializing in residential and commercial projects.">
     <meta property="og:url" content="https://www.al-aminglass.com">
-    <meta property="og:image" content="https://www.al-aminglass.com/images/og-image.jpg">
+    <meta property="og:image" content="{{ url_for('static', filename='Logo.png') }}">
     <meta property="og:site_name" content="Al-Amin Glass & Aluminium">
 
     <!-- Twitter / X Cards -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Catchy Title for Twitter">
-    <meta name="twitter:description" content="Brief summary tailored for Twitter.">
-    <meta name="twitter:image" content="https://www.al-aminglass.com/images/twitter-image.jpg">
+    <meta name="twitter:title" content="Al-Amin Glass & Aluminium">
+    <meta name="twitter:description" content="A leading provider of high-quality glass and aluminium solutions, specializing in residential and commercial projects.">
+    <meta name="twitter:image" content="{{ url_for('static', filename='Logo.png') }}">
 
     <!-- Internationalization (Use if site exists in multiple languages) -->
     <link rel="alternate" hreflang="en" href="https://www.al-aminglass.com">
