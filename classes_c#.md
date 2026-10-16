@@ -22,7 +22,7 @@ Create a class called **Car** with these attributes:
 * `model`
 * `year`
 
-Create an object called **myCar** and give it values.
+Create an object called **mytesla** and give it values.
 
 Print the **brand** of the car.
 
@@ -51,7 +51,7 @@ Create a class called **Student** with:
 * `favoriteSubject`
 * `age`
 
-Create an object called **student1** and print their **favoriteSubject**.
+Create an object called **firststudent** and print their **favoriteSubject**.
 
 ---
 
