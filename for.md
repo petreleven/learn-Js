@@ -26,7 +26,7 @@
 🗺️ Step-by-Step Guide:
 
 * Step 1: Write a `for` loop using `for (let lane = 5; lane <= 10; lane++)`.
-* Step 2: Inside the loop, print ``🏊 Splash! Swimmer diving into lane \${lane}``.
+* Step 2: Inside the loop, print ``🏊 Splash! Swimmer diving into lane` + lane`.
 * Step 3: Run it and confirm the first line says lane 5 and the last line says lane 10.
 
 > 💡 **JavaScript tip:** Use `<=` in your condition so that you include the final number (e.g., `lane <= 10`).
