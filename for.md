@@ -32,6 +32,19 @@
 > 💡 **JavaScript tip:** Use `<=` in your condition so that you include the final number (e.g., `lane <= 10`).
 
 ---
+### 🏊 Quest 2.1: The Relay Team Sprint Check
+
+**The Mission:** You're managing the final relay event! The team has total pool zones numbered 1 to 15, but your star swimmers only compete in zones 8 through 15. Call out each zone as your relay team powers through them, starting at zone 8 and ending at zone 15.
+
+**Check your work:** Print zones 8, 9, 10, 11, 12, 13, 14, 15. Zone 15 must be included, and no zone below 8 should appear.
+
+🗺️ Step-by-Step Guide:
+
+* Step 1: Write a `for` loop using `for (let zone = 8; zone <= 15; zone++)`.
+* Step 2: Inside the loop, print ``🏊 Dash! Relay swimmer powering through zone \${zone}``.
+* Step 3: Run it and confirm the first line says zone 8 and the last line says zone 15.
+
+> 💡 **JavaScript tip:** Remember to use `<=` to make sure your final stop number (15) is included in the loop!
 
 ## ⚔️ Main Levels: Break & Continue
 
