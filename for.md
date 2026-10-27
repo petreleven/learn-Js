@@ -75,7 +75,7 @@
 
 * Step 1: Create a variable `let ammo = 100;`.
 * Step 2: Write a `for` loop counting waves from 1 to 30 using `for (let wave = 1; wave <= 30; wave++)`.
-* Step 3: Check if `wave === 10 || wave === 20`. If true, print ``Wave : Scout wave, dodged!`` and `continue`.
+* Step 3: Check if `wave === 10 || wave === 20`. If true, print ``Wave , dodged!`` and `continue`.
 * Step 4: Otherwise, subtract 8 from `ammo` (`ammo -= 8;`).
 * Step 5: If `ammo <= 0`, print `"OUT OF AMMO!"` and `break`.
 * Step 6: Otherwise, print the wave number and remaining ammo.
